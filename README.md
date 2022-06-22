@@ -1,5 +1,6 @@
-# BigDataAnalytics (Hadoop)
+# Big Data Analytics (Hadoop)
 ## 0	Task -0: Hadoop step Up and Installation in Google Cloud Engine:
+– – – – -
    ### 0.1	ssh key generating.
    ### 0.2	Login with Instance
    ### 0.3	Update	<br />
